@@ -1,5 +1,5 @@
 Step 1: Requirement Analysis
-    - Take 2 hubs, 2 switches, 3 routers and 1 PC
+    - Take 2 Server-PT, 2 switches, 3 routers and 1 PC
 
 Step 2: Configure the 3 Routers
     - Turn off the router
